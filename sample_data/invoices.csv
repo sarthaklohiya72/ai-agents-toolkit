@@ -1,0 +1,5 @@
+invoice_id,client_name,amount,due_date,status,contact_email
+INV-1001,Bhiwadi Auto Parts,45000,2026-08-01,pending,purchase@bhiwadiauto.example.com
+INV-1002,Jaipur Textiles Co.,72000,2026-08-20,paid,team@jaipurtextiles.example.com
+INV-1003,Delhi Handicrafts Ltd.,30000,2026-08-25,pending,orders@delhihandicrafts.example.com
+INV-1004,Marble Exports India,58000,2026-09-05,pending,sales@marbleexports.example.com

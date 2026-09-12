@@ -1,0 +1,5 @@
+product_name,current_stock,reorder_level,supplier_name,supplier_email
+Copper Sheet 2mm,40,100,Rajesh Metals Supply,orders@rajeshmetals.example.com
+Brass Rod 10mm,15,50,Sharma Alloys,sales@sharmaalloys.example.com
+Steel Wire 5mm,200,80,Delhi Steel Traders,contact@delhisteel.example.com
+Aluminium Sheet 1mm,25,60,Verma Metal Works,info@vermametal.example.com
